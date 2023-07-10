@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DashBoard/static/css/main.3cb14501.css",
+    "main.js": "/DashBoard/static/js/main.424227bd.js",
+    "index.html": "/DashBoard/index.html",
+    "main.3cb14501.css.map": "/DashBoard/static/css/main.3cb14501.css.map",
+    "main.424227bd.js.map": "/DashBoard/static/js/main.424227bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cb14501.css",
+    "static/js/main.424227bd.js"
+  ]
+}
